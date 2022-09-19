@@ -1,2 +1,2 @@
 # personel_website_2
-website2
+https://alioglumusa.github.io/personel_website_2/
